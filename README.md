@@ -1,13 +1,14 @@
 <h2>
+  <a href="https://github.com/hyeinisfree"><img align="right" width="150" height="150" src="./img/octocat.png"></a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="22" height="22" alt="Green Heart" />
   <span>Hi there, I'm Hyein Kim</span>
 </h2>
 
-<a href="https://hits.sh/github.com/hyeinisfree/"><img alt="Hits" src="https://hits.sh/github.com/hyeinisfree.svg?style=for-the-badge&color=50C878"/></a>
-<img src="./img/gmail.png" width="26" height="26" />
-<img src="./img/linkedin.png" width="26" height="26" />
-<img src="./img/tistory.png" width="26" height="26" />
-<img src="./img/instagram.png" width="26" height="26" />
+<a href="https://hits.sh/github.com/hyeinisfree/"><img alt="Hits" src="https://hits.sh/github.com/hyeinisfree.svg?style=for-the-badge&color=50C878"/></a>&nbsp;
+<a href="mailto:hyeinisfree.dev@gmail.com"><img src="./img/gmail.png" width="26" height="26" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/hyein-kim-003940322/"><img src="./img/linkedin.png" width="26" height="26" /></a>&nbsp;
+<a href="https://hyeinisfree.tistory.com"><img src="./img/tistory.png" width="26" height="26" /></a>&nbsp;
+<a href="https://www.instagram.com/dev.dobby"><img src="./img/instagram.png" width="26" height="26" /></a>&nbsp;
 
 <div style="margin-top: 12px;">
   <img src="https://readme-typing-svg.demolab.com?font=Barriecito&size=28&pause=1000&color=50C878&width=435&height=40&lines=Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
@@ -57,7 +58,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" height="20" alt="Coin" />
   <span>GitHub Stats</span>
 </h2>
-<a href="https://github.com/hyeinisfree"><img align="right" width="150" height="150" src="./img/octocat.png"></a>
 
 [![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&theme=vue&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinisfree&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
