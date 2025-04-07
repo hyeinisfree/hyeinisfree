@@ -1,44 +1,70 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
- -->
-![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png)
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="22" height="22" alt="Green Heart" />
+  <span>Hi there, I'm Hyein Kim</span>
+</h2>
 
-
-<h3 align="center">👋 It's me! 👋</h3>
-<p align="center">
-  <b>Backend Developer</b> 👩‍💻 <br>
-  <b>I'm growing everyday</b> 🌿
-</p>
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/RubyOnRails-D30001?style=flat-square&logo=RubyOnRails&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-</p>
-
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-contetn: center; align-items: center; gap: 8px;">
+  <a href="https://hits.sh/github.com/hyeinisfree/"><img alt="Hits" src="https://hits.sh/github.com/hyeinisfree.svg?style=for-the-badge&color=50C878"/></a>
+  <div style="display: flex; justify-content: center; align-items: center; background-color: #50C878; border-radius: 2px; padding: 4px; width: 22px; height: 22px;">
+    <img src="./img/gmail.svg" width="20" height="20" style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(101deg) brightness(107%) contrast(101%);"/>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; background-color: #50C878; border-radius: 2px; padding: 4px; width: 22px; height: 22px;">
+    <img src="./img/linkedin.svg" width="20" height="20" style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(101deg) brightness(107%) contrast(101%);"/>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; background-color: #50C878; border-radius: 2px; padding: 4px; width: 22px; height: 22px;">
+    <img src="./img/tistory.svg" width="20" height="20" style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(101deg) brightness(107%) contrast(101%);"/>
+  </div>
 </div>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+
+<div style="margin-top: 12px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Barriecito&size=28&pause=1000&color=50C878&width=435&height=40&lines=Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+<br>
+
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" height="20" alt="Briefcase" />
+  <span>Experience</span>
+</h2>
+<ul>
+  <li><a href="https://www.jobplanet.co.kr" targer="_blank">잡플래닛</a>, Backend Engineer (2022.09 ~ 2024.11)</li>
+</ul>
+
+<br>
+
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" height="20" alt="Laptop" />
+  <sapn>Projects</sapn>
+</h2>
+<ul>
+  <li><a href="https://litt.ly/crystalmine" targer="_blank">수정광산</a>, Backend Developer (2021.06 ~ 2022.09)</li>
+  <li><a href="https://github.com/Storeasy/Storeasy-server" target="_blank">스토리지</a>, Backend Developer (2021.11)</li>
+</ul>
+
+<br>
+
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" width="20" height="20" alt="Hammer and Pick" />
+  <span>Skills</span>
+</h2>
+
+<br>
+
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" height="20" alt="Graduation Cap" />
+  <span>Education</span>
+</h2>
+<ul>
+  <li>성신여자대학교, 컴퓨터공학과(주전공) / 융합보안공학과(부전공) 학사 (2018.03 ~ 2022.08 <code>졸업</code>)</li>
+</ul>
+
+<br>
+
+<h2 style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" height="20" alt="Coin" />
+  <span>GitHub Stats</span>
+</h2>
+<a href="https://github.com/hyeinisfree"><img align="right" width="150" height="150" src="./img/octocat.png"></a>
+
+[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&theme=vue&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinisfree&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
