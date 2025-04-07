@@ -1,20 +1,13 @@
-<h2 style="display: flex; align-items: center; gap: 8px;">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" width="22" height="22" alt="Green Heart" />
   <span>Hi there, I'm Hyein Kim</span>
 </h2>
 
-<div style="display: flex; justify-contetn: center; align-items: center; gap: 8px;">
-  <a href="https://hits.sh/github.com/hyeinisfree/"><img alt="Hits" src="https://hits.sh/github.com/hyeinisfree.svg?style=for-the-badge&color=50C878"/></a>
-  <div style="display: flex; justify-content: center; align-items: center; background-color: #50C878; border-radius: 2px; padding: 4px; width: 22px; height: 22px;">
-    <img src="./img/gmail.svg" width="20" height="20" style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(101deg) brightness(107%) contrast(101%);"/>
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background-color: #50C878; border-radius: 2px; padding: 4px; width: 22px; height: 22px;">
-    <img src="./img/linkedin.svg" width="20" height="20" style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(101deg) brightness(107%) contrast(101%);"/>
-  </div>
-  <div style="display: flex; justify-content: center; align-items: center; background-color: #50C878; border-radius: 2px; padding: 4px; width: 22px; height: 22px;">
-    <img src="./img/tistory.svg" width="20" height="20" style="filter: invert(100%) sepia(100%) saturate(1%) hue-rotate(101deg) brightness(107%) contrast(101%);"/>
-  </div>
-</div>
+<a href="https://hits.sh/github.com/hyeinisfree/"><img alt="Hits" src="https://hits.sh/github.com/hyeinisfree.svg?style=for-the-badge&color=50C878"/></a>
+<img src="./img/gmail.png" width="26" height="26" />
+<img src="./img/linkedin.png" width="26" height="26" />
+<img src="./img/tistory.png" width="26" height="26" />
+<img src="./img/instagram.png" width="26" height="26" />
 
 <div style="margin-top: 12px;">
   <img src="https://readme-typing-svg.demolab.com?font=Barriecito&size=28&pause=1000&color=50C878&width=435&height=40&lines=Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
@@ -22,7 +15,7 @@
 
 <br>
 
-<h2 style="display: flex; align-items: center; gap: 8px;">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" height="20" alt="Briefcase" />
   <span>Experience</span>
 </h2>
@@ -32,7 +25,7 @@
 
 <br>
 
-<h2 style="display: flex; align-items: center; gap: 8px;">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" height="20" alt="Laptop" />
   <sapn>Projects</sapn>
 </h2>
@@ -43,14 +36,14 @@
 
 <br>
 
-<h2 style="display: flex; align-items: center; gap: 8px;">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" width="20" height="20" alt="Hammer and Pick" />
   <span>Skills</span>
 </h2>
 
 <br>
 
-<h2 style="display: flex; align-items: center; gap: 8px;">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" height="20" alt="Graduation Cap" />
   <span>Education</span>
 </h2>
@@ -60,7 +53,7 @@
 
 <br>
 
-<h2 style="display: flex; align-items: center; gap: 8px;">
+<h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" height="20" alt="Coin" />
   <span>GitHub Stats</span>
 </h2>
