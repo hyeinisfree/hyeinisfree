@@ -10,9 +10,10 @@
 <a href="https://hyeinisfree.tistory.com"><img src="./img/tistory.png" width="26" height="26" /></a>&nbsp;
 <a href="https://www.instagram.com/dev.dobby"><img src="./img/instagram.png" width="26" height="26" /></a>&nbsp;
 
-<div style="margin-top: 12px;">
+<div style="margin-top: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Barriecito&size=28&pause=1000&color=50C878&width=435&height=40&lines=Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
+
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" height="20" alt="Briefcase" />
@@ -22,7 +23,6 @@
   <li><a href="https://www.jobplanet.co.kr" targer="_blank">잡플래닛</a>, Backend Engineer (2022.09 ~ 2024.11)</li>
 </ul>
 
-<br>
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" height="20" alt="Laptop" />
@@ -33,7 +33,6 @@
   <li><a href="https://github.com/Storeasy/Storeasy-server" target="_blank">스토리지</a>, Backend Developer (2021.11)</li>
 </ul>
 
-<br>
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" width="20" height="20" alt="Hammer and Pick" />
@@ -51,7 +50,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<br>
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" height="20" alt="Graduation Cap" />
@@ -61,7 +59,6 @@
   <li>성신여자대학교, 컴퓨터공학과(주전공) / 융합보안공학과(부전공) 학사 (2018.03 ~ 2022.08 <code>졸업</code>)</li>
 </ul>
 
-<br>
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" height="20" alt="Coin" />
