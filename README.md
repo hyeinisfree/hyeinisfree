@@ -20,6 +20,7 @@
   <span>Experience</span>
 </h2>
 <ul>
+  <li><a href="https://www.new-off.com" targer="_blank">뉴오프</a>, Backend Engineer (2025.08 ~ )</li>
   <li><a href="https://www.jobplanet.co.kr" targer="_blank">잡플래닛</a>, Backend Engineer (2022.09 ~ 2024.11)</li>
 </ul>
 
@@ -60,12 +61,3 @@
 <ul>
   <li>성신여자대학교, 컴퓨터공학과(주전공) / 융합보안공학과(부전공) 학사 (2018.03 ~ 2022.08 <code>졸업</code>)</li>
 </ul>
-
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" height="20" alt="Coin" />
-  <span>GitHub Stats</span>
-</h2>
-
-[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&theme=vue&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeinisfree&layout=compact&theme=vue&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
