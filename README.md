@@ -20,8 +20,8 @@
   <span>Experience</span>
 </h2>
 <ul>
-  <li><a href="https://www.new-off.com" targer="_blank">뉴오프</a>, Backend Engineer (2025.08 ~ )</li>
-  <li><a href="https://www.jobplanet.co.kr" targer="_blank">잡플래닛</a>, Backend Engineer (2022.09 ~ 2024.11)</li>
+  <li><a href="https://www.new-off.com" target="_blank">뉴오프</a>, Backend Engineer (2025.08 ~ )</li>
+  <li><a href="https://www.jobplanet.co.kr" target="_blank">잡플래닛</a>, Backend Engineer (2022.09 ~ 2024.11)</li>
 </ul>
 
 
@@ -30,8 +30,8 @@
   <sapn>Projects</sapn>
 </h2>
 <ul>
-  <li><a href="https://github.com/kira-matdongsan/Matdongsan-BE" targer="_blank">맛동산</a>, Backend Developer (2025.02 ~ )</li>
-  <li><a href="https://litt.ly/crystalmine" targer="_blank">수정광산</a>, Backend Developer (2021.06 ~ 2022.09)</li>
+  <li><a href="https://github.com/kira-matdongsan/Matdongsan-BE" target="_blank">맛동산</a>, Backend Developer (2025.02 ~ )</li>
+  <li><a href="https://litt.ly/crystalmine" target="_blank">수정광산</a>, Backend Developer (2021.06 ~ 2022.09)</li>
   <li><a href="https://github.com/Storeasy/Storeasy-server" target="_blank">스토리지</a>, Backend Developer (2021.11)</li>
   <li><a href="https://github.com/Team-Dingdong/dingdong-server" target="_blank">띵-동</a>, Backend Developer (2021.07 ~ 2021.11)</li>
 </ul>
@@ -42,16 +42,13 @@
   <span>Skills</span>
 </h2>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br/>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<ul>
+  <li><b>Language</b> — Kotlin, Java, Ruby</li>
+  <li><b>Backend</b> — Spring Boot, Spring Batch, Ruby on Rails</li>
+  <li><b>Data / Search</b> — MySQL, Redis, OpenSearch</li>
+  <li><b>Infra / DevOps</b> — AWS (EKS, SQS, S3, CloudFront), Kubernetes, Helm, Docker, ArgoCD, GitHub Actions, Jenkins</li>
+  <li><b>Observability</b> — Grafana Loki, Alloy</li>
+</ul>
 
 
 <h2>
