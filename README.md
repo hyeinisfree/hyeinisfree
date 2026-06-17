@@ -43,11 +43,11 @@
 </h2>
 
 <ul>
-  <li><b>Language</b> — Kotlin, Java, Ruby</li>
-  <li><b>Backend</b> — Spring Boot, Spring Batch, Ruby on Rails</li>
-  <li><b>Data / Search</b> — MySQL, Redis, OpenSearch</li>
-  <li><b>Infra / DevOps</b> — AWS (EKS, SQS, S3, CloudFront), Kubernetes, Helm, Docker, ArgoCD, GitHub Actions, Jenkins</li>
-  <li><b>Observability</b> — Grafana Loki, Alloy</li>
+  <li><b>Language</b> - Kotlin, Java, Ruby</li>
+  <li><b>Backend</b> - Spring Boot, Spring Batch, Ruby on Rails</li>
+  <li><b>Data / Search</b> - MySQL, Redis, OpenSearch</li>
+  <li><b>Infra / DevOps</b> - AWS (EKS, SQS, S3, CloudFront), Kubernetes, Helm, Docker, ArgoCD, GitHub Actions, Jenkins</li>
+  <li><b>Observability</b> - Grafana Loki, Alloy</li>
 </ul>
 
 
